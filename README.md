@@ -14,22 +14,6 @@
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-
-## Finance Report :
-
-- **Project objective:** 
-
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/HarshallNadar17/Excel-Sales-Analytics/blob/main/Profit%20and%20loss%20Statement%20by%20FY%20Year%20.pdf)_ & _[Months](https://github.com/HarshallNadar17/Excel-Sales-Analytics/blob/main/Profit%20and%20loss%20Statement%20by%20Months%20.pdf)_ 
-
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/HarshallNadar17/Excel-Sales-Analytics/blob/main/Profit%20and%20loss%20Statement%20FY%20Year%20(Market)%20.pdf)_
-
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
-
-
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
